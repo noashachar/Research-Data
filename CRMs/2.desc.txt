@@ -1,2 +1,3 @@
 Name: 3,4-dimethoxychalcone
 Type: known
+Organism: mouse

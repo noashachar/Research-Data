@@ -1,2 +1,3 @@
 Name: 2-deoxyglucose
 Type: known
+Organism: mouse

@@ -1,2 +1,3 @@
 Name: glucosamine
 Type: putative
+Organism: mouse
