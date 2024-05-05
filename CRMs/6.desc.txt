@@ -1,0 +1,2 @@
+Name: spermine
+Type: known

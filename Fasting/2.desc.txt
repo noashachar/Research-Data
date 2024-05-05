@@ -1,0 +1,3 @@
+Fasting Duration: 24 hours
+Organism: human
+Sex: female
