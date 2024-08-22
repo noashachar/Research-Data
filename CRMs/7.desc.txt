@@ -1,0 +1,3 @@
+Name: allulose
+Type: putative
+Organism: mouse
