@@ -1,0 +1,4 @@
+Caloric Restriction Duration:  N/A
+Deficit Size: CR vs AL
+Organism: mouse
+source: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE211975
