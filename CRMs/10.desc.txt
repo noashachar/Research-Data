@@ -1,0 +1,4 @@
+Name: curcumin
+Type: putative
+Organism: human
+source: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156472
