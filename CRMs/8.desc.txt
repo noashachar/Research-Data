@@ -1,0 +1,3 @@
+Name: resveratrol
+Type: known
+Organism: mouse
