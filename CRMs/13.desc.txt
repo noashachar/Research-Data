@@ -1,0 +1,4 @@
+Name: 	Nicotinamide mononucleotide
+Type: putative
+Organism: human
+Source: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE157988
